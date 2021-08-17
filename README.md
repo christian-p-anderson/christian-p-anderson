@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> Hey! Nice to meet you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> Hi! I'm Christian. Nice to meet you.</h1>
 <h3 align="center">A passionate software developer</h3>
 
 - 🌱 I’m currently learning **AWS to take the AWS Certified Solutions Architect Associate exam**
