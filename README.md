@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> Hey! It's nice to meet you.</h1>
 <h2 align="center">Passionate Software Developer</h2>
 
-- 🌱 I’m currently working on getting my **AWS Certified Solutions Architect Associate certificate**
+- 🌱 &nbsp; I’m currently working on getting my **AWS Certified Solutions Architect Associate certificate**
 
-- 📫 How to reach me **christian.p.anderson1@gmail.com**
+- 📫 &nbsp; How to reach me **christian.p.anderson1@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/christian_anderson_resume](https://bit.ly/christian_anderson_resume)
+- 📄 &nbsp; Know about my experiences [https://bit.ly/christian_anderson_resume](https://bit.ly/christian_anderson_resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
