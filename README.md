@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **christian.p.anderson1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M_VrsVQonUtjf043D3zZSCPFgt6UV8jB/view?usp=sharing](https://drive.google.com/file/d/1M_VrsVQonUtjf043D3zZSCPFgt6UV8jB/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/christian_anderson_resume](https://bit.ly/christian_anderson_resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
