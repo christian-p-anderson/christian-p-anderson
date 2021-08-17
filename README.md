@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> Hey! It's nice to meet you.</h1>
 <h2 align="center">Passionate Software Developer</h2>
 
-- 🌱 I’m currently learning **AWS to take the AWS Certified Solutions Architect Associate exam**
+- 🌱 I’m currently working on getting my **AWS Certified Solutions Architect Associate certificate**
 
 - 📫 How to reach me **christian.p.anderson1@gmail.com**
 
