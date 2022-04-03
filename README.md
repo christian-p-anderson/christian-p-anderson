@@ -5,7 +5,7 @@
 
 - 📫 &nbsp; How to reach me **christian.p.anderson1@gmail.com**
 
-- 📄 &nbsp; Know about my experiences [https://bit.ly/christian_anderson_resume](https://bit.ly/christian-anderson-resume)
+- 📄 &nbsp; Know about my experiences [https://bit.ly/christian-anderson-resume](https://bit.ly/christian-anderson-resume)
 &nbsp;
 <h3 align="left">Connect with me:</h3>
 <p align="left">
